@@ -1,0 +1,400 @@
+2015-06-20 15:59:54,781 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : ie11
+2015-06-20 15:59:54,787 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITH using grid
+2015-06-20 16:00:19,597 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:00:19,623 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+2015-06-20 16:00:19,659 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: ie11
+2015-06-20 16:00:19,660 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:00:19,661 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:00:19,695 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : ie10
+2015-06-20 16:00:19,697 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITH using grid
+2015-06-20 16:00:40,748 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:00:40,752 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+2015-06-20 16:00:40,759 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: ie10
+2015-06-20 16:00:40,760 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:00:40,761 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:00:40,783 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : chrome
+2015-06-20 16:00:40,784 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITH using grid
+2015-06-20 16:01:01,823 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:01:01,827 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+2015-06-20 16:01:01,833 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: chrome
+2015-06-20 16:01:01,836 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:01:01,837 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:01:01,853 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : firefox
+2015-06-20 16:01:01,855 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITH using grid
+2015-06-20 16:01:22,866 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:01:22,870 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+2015-06-20 16:01:22,875 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: firefox
+2015-06-20 16:01:22,877 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:01:22,878 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:07:40,427 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : ie11
+2015-06-20 16:07:40,427 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : chrome
+2015-06-20 16:07:40,427 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : ie10
+2015-06-20 16:07:40,427 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : firefox
+2015-06-20 16:07:40,437 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITH using grid
+2015-06-20 16:07:40,436 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITH using grid
+2015-06-20 16:07:40,435 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITH using grid
+2015-06-20 16:07:40,439 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITH using grid
+2015-06-20 16:07:59,303 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : ie11
+2015-06-20 16:07:59,310 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITH using grid
+2015-06-20 16:08:02,579 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:08:02,585 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:08:02,602 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:08:02,602 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:08:02,611 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+2015-06-20 16:08:02,612 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+2015-06-20 16:08:02,611 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+2015-06-20 16:08:02,611 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+2015-06-20 16:08:02,662 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: ie11
+2015-06-20 16:08:02,662 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: chrome
+2015-06-20 16:08:02,662 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: firefox
+2015-06-20 16:08:02,662 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: ie10
+2015-06-20 16:08:02,667 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:08:02,666 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:08:02,664 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:08:02,671 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:08:02,670 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:08:02,668 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:08:02,677 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:08:02,672 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:08:21,447 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:08:21,476 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+2015-06-20 16:08:21,509 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: ie11
+2015-06-20 16:08:21,512 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:08:21,513 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:08:21,540 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : ie10
+2015-06-20 16:08:21,542 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITH using grid
+2015-06-20 16:08:30,714 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : ie11
+2015-06-20 16:08:30,721 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITH using grid
+2015-06-20 16:08:42,570 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:08:42,574 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+2015-06-20 16:08:42,579 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: ie10
+2015-06-20 16:08:42,581 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:08:42,582 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:08:42,593 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : chrome
+2015-06-20 16:08:42,597 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITH using grid
+2015-06-20 16:08:52,750 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:08:52,787 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+2015-06-20 16:08:52,830 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: ie11
+2015-06-20 16:08:52,832 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:08:52,833 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:08:52,860 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : ie10
+2015-06-20 16:08:52,862 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITH using grid
+2015-06-20 16:09:03,630 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:09:03,634 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+2015-06-20 16:09:03,638 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: chrome
+2015-06-20 16:09:03,640 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:09:03,641 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:09:03,650 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : firefox
+2015-06-20 16:09:03,652 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITH using grid
+2015-06-20 16:09:13,887 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:09:13,891 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+2015-06-20 16:09:13,896 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: ie10
+2015-06-20 16:09:13,897 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:09:13,899 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:09:13,908 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : chrome
+2015-06-20 16:09:13,912 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITH using grid
+2015-06-20 16:09:24,668 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:09:24,672 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+2015-06-20 16:09:24,677 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: firefox
+2015-06-20 16:09:24,680 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:09:24,681 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:09:34,927 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:09:34,930 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+2015-06-20 16:09:34,936 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: chrome
+2015-06-20 16:09:34,938 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:09:34,939 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:09:34,952 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : firefox
+2015-06-20 16:09:34,954 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITH using grid
+2015-06-20 16:09:55,984 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:09:55,988 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure.
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: driver.version: RemoteWebDriver
+2015-06-20 16:09:55,993 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: firefox
+2015-06-20 16:09:55,994 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:09:55,995 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:33:11,729 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : ie11
+2015-06-20 16:33:11,739 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITHOUT using grid
+2015-06-20 16:33:15,313 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:33:15,328 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Unexpected error launching Internet Explorer. IELaunchURL() returned HRESULT 80070002 ('The system cannot find the file specified.') for URL 'http://localhost:30100/' (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.69 seconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+2015-06-20 16:33:15,366 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: ie11
+2015-06-20 16:33:15,368 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:33:15,369 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:33:15,396 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : ie10
+2015-06-20 16:33:15,401 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITHOUT using grid
+2015-06-20 16:33:17,464 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Error occured while creating DRIVER object
+2015-06-20 16:33:17,467 - com.uspeclipse.commonservices.MultipleBrowser -ERROR - Unexpected error launching Internet Explorer. IELaunchURL() returned HRESULT 80070002 ('The system cannot find the file specified.') for URL 'http://localhost:32959/' (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 2.05 seconds
+Build info: version: '2.45.0', revision: '5017cb8e7ca8e37638dc3091b2440b90a1d8686f', time: '2015-02-27 09:10:26'
+System info: host: 'vikram', ip: '192.168.19.1', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_20'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+2015-06-20 16:33:17,472 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: ie10
+2015-06-20 16:33:17,474 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:33:17,475 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:33:17,504 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : chrome
+2015-06-20 16:33:17,511 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITHOUT using grid
+2015-06-20 16:33:23,769 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: chrome
+2015-06-20 16:33:49,690 - com.uspeclipse.setup.Initialization -INFO - About to login into Inview application
+2015-06-20 16:33:49,691 - com.uspeclipse.pageobjects.login.InviewLogin_pageobject -INFO - Logging into application with role : Inview
+2015-06-20 16:34:15,748 - com.uspeclipse.setup.Initialization -INFO - About to login into Eclipse application
+2015-06-20 16:34:15,750 - com.uspeclipse.pageobjects.login.EclipseLogin_pageobject -INFO - Logging into application with user role : worker
+2015-06-20 16:34:24,508 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Starting inner class execution
+2015-06-20 16:34:25,714 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 2 - Navigate to Person screen
+2015-06-20 16:34:25,716 - com.uspeclipse.pageobjects.home.Home_pageobjects -INFO - Clicking on Recently Accessed Record Link on Home Page
+2015-06-20 16:34:32,244 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 3 - Confirm that an '+ADD'and 'WARNINGS' buttons are available at the  top right corner to the user when the person is in the context
+2015-06-20 16:34:32,247 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Add Person button is Displayed on Home page
+2015-06-20 16:34:34,838 - com.uspeclipse.pageobjects.person.AddWarning_pageobject -INFO - Checking if Add Warning Button is Displayed
+2015-06-20 16:34:34,990 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Add Person Button
+2015-06-20 16:34:37,462 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 4 - Confirm that on clicking the'+ADD'button as in above step, a 'Add Person' overlay is opened to the user
+2015-06-20 16:34:37,465 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Add Person Overlay is Displayed
+2015-06-20 16:34:37,503 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 5 - Confirm that the narrative on the overlay is 'What type do you want to add?'
+2015-06-20 16:34:37,505 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Getting Narrative text on the Add Person Overlay
+2015-06-20 16:34:37,726 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 6 - Confirm that three checkboxes are displayed: Client, Other, Professional
+2015-06-20 16:34:37,727 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if client Checkbox is Displayed on Add Person Overlay
+2015-06-20 16:34:37,793 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if other Checkbox is Displayed on Add Person Overlay
+2015-06-20 16:34:37,860 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if professional Checkbox is Displayed on Add Person Overlay
+2015-06-20 16:34:37,925 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 7 - Confirm that the none of the checkboxes are pre-selected
+2015-06-20 16:34:37,926 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if client Checkbox is Selected on Add Person Overlay
+2015-06-20 16:34:37,991 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if other Checkbox is Selected on Add Person Overlay
+2015-06-20 16:34:38,048 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if professional Checkbox is Selected on Add Person Overlay
+2015-06-20 16:34:38,104 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 8 - Confirm that 'proceed' and 'cancel' buttons are displayed below the checkboxes on the right-hand side of the overlay
+2015-06-20 16:34:38,107 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Proceed Button is Displayed on Add Person Overlay
+2015-06-20 16:34:38,183 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Cancel Button is Displayed on Add Person Overlay
+2015-06-20 16:34:38,249 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 9 - Select the checkbox for Client, carer or family/household member
+2015-06-20 16:34:38,251 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on client Chekbox on Add Person Overlay
+2015-06-20 16:34:38,377 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 10 - Click on 'proceed' button 
+2015-06-20 16:34:38,378 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Proceed Button on Add Person Overlay
+2015-06-20 16:34:38,979 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO -  Step 11 - Confirm that the narrative has now changed to 'You're adding a new person'
+2015-06-20 16:34:38,981 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Getting Narrative Text on Add Person Form
+2015-06-20 16:34:39,042 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 22 - Confirm that the'Title' shows a drop-down menu and should not be empty. 'Please choose' should be displayed if no selection is made from the drop-down.
+2015-06-20 16:34:39,044 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Getting Default value from Title Dropdown on Add Person Form
+2015-06-20 16:34:39,122 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Verifying if Title Dropdown is not Empty
+2015-06-20 16:34:39,462 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 29 - Confirm that alternatively the user can also manually enter the year in the year field in 'YYYY' format
+2015-06-20 16:34:39,465 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing 1975 in the Year Text box on Add Person Form
+2015-06-20 16:34:39,795 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 33 - Confirm that when the year is entered in the 'Year' field, the 'Month' field is enabled and the 'Day' field is disabled.
+2015-06-20 16:34:39,798 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if DOBMonth Dropdown is enabled on Add Person Form
+2015-06-20 16:34:39,872 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if DOBDay Dropdown is enabled on Add Person Form
+2015-06-20 16:34:39,938 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 31 - Confirm that on-clicking the down arrow in the month field of calender, months from January, February, March, April, May. June. July, August, September, October, November,December are displayed in the default order
+2015-06-20 16:34:39,941 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Verifying the Options in the Month Dropdown on Add Person Form
+2015-06-20 16:34:40,586 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 43 - Confirm that the'Ethnicity'should not be empty instead 'Please choose' should reflect in the field.
+2015-06-20 16:34:40,588 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Getting Default value from Ethnicity Dropdown on Add Person Form
+2015-06-20 16:34:40,810 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 45 - Confirm that Gender show following options in the form of radio buttons[**b**][**b**] 1. Male[**b**] 2. Female[**b**] 3. Indeterminate[**b**] 4. Unknown[**b**]
+2015-06-20 16:34:40,812 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Male Gender is Displayed on Add Person Form
+2015-06-20 16:34:40,886 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Female Gender is Displayed on Add Person Form
+2015-06-20 16:34:40,958 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Indeterminate Gender is Displayed on Add Person Form
+2015-06-20 16:34:41,029 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Unknown Gender is Displayed on Add Person Form
+2015-06-20 16:34:41,100 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 54 - Confirm that on clicking the 'X' the user is taken out of the'Add person'overlay and the person is not added, the existing page is presented to the user
+2015-06-20 16:34:41,103 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Cancel button on Add Person Form
+2015-06-20 16:34:41,558 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Add Person button is Displayed on Home page
+2015-06-20 16:34:41,705 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Add Person Button
+2015-06-20 16:34:44,109 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on client Chekbox on Add Person Overlay
+2015-06-20 16:34:44,247 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Proceed Button on Add Person Overlay
+2015-06-20 16:34:44,694 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 53 - Confirm that on clicking the 'cancel'button the user is taken out of the'Add person'overlay and the person is not added, the existing page is presented to the user
+2015-06-20 16:34:44,696 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Cancel button on Add Person Form
+2015-06-20 16:34:45,044 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Add Person button is Displayed on Home page
+2015-06-20 16:34:45,167 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 14 - Fill in the mandatory fields and any non mandatory fields and click on 'save' button
+2015-06-20 16:34:45,169 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Adding a New Person to the System
+2015-06-20 16:34:45,248 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Add Person Button
+2015-06-20 16:34:47,597 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on client Chekbox on Add Person Overlay
+2015-06-20 16:34:47,711 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Proceed Button on Add Person Overlay
+2015-06-20 16:34:48,074 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Selecting Mr from Title Dropdown on Add Person Form
+2015-06-20 16:34:48,504 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing John in Forename Textbox on Add Person Form
+2015-06-20 16:34:48,809 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing Paul in Middlename Textbox on Add Person Form
+2015-06-20 16:34:49,084 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing Watson in Surname Textbox on Add Person Form
+2015-06-20 16:34:49,435 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing 1975 in the Year Text box on Add Person Form
+2015-06-20 16:34:49,877 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Selecting Jan from Month Dropdown on Add Person Form
+2015-06-20 16:34:50,271 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Selecting 1 from Day Dropdown on Add Person Form
+2015-06-20 16:34:50,654 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Male Gender on Add Person Form
+2015-06-20 16:34:50,881 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Selecting White - British from Ethnicity Dropdown on Add Person Form
+2015-06-20 16:34:51,184 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Save Button on Add Person Form
+2015-06-20 16:34:51,597 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 15 - Confirm that a message is displayed as 'Person successfully saved'
+2015-06-20 16:34:51,599 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Verifying Confirmation message
+2015-06-20 16:34:56,324 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 16 - Confirm that the details entered in Step 14 are correctly displayed in the 'Identification' accordion 
+2015-06-20 16:34:56,325 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Verifying Person Details of recently added person
+2015-06-20 16:34:56,609 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 17 - Confirm that the Person type on the Identification accordion displays type as 'Client, carer or family/household member'
+2015-06-20 16:34:56,611 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Verifying Person Type of Recently added person
+2015-06-20 16:35:26,843 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 18 - Confirm that 'Add' link is displayed to add new person types to a this person 
+2015-06-20 16:35:26,846 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Add Person Role link is Displayed on Person Detail page
+2015-06-20 16:35:26,918 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 50 - Confirm that the added person is available in the person's result set
+2015-06-20 16:35:26,919 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Getting Person ID from the Person Detail page
+2015-06-20 16:35:27,043 - com.uspeclipse.pageobjects.home.Home_pageobjects -INFO - Clicking on Home Link from Menu
+2015-06-20 16:35:30,890 - com.uspeclipse.pageobjects.home.Home_pageobjects -INFO - Searching a Person
+2015-06-20 16:35:31,893 - com.uspeclipse.pageobjects.home.Home_pageobjects -INFO - Getting recently added PersonName from Search Result
+2015-06-20 16:35:32,019 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 52 - Confirm that on clicking to the 'view person' link, the view person dialog is presented to the user
+2015-06-20 16:35:32,021 - com.uspeclipse.pageobjects.home.Home_pageobjects -INFO - Clicking on Person Name Link
+2015-06-20 16:35:32,310 - com.uspeclipse.pageobjects.home.Home_pageobjects -INFO - Checking if View Person Overlay is Displayed
+2015-06-20 16:35:32,613 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 37 - Confirm that if the user does not enter the exact date in the 'Day' field, last date of the month entered is considered and displayed by default and Dob is marked as 'estimated' Dob
+2015-06-20 16:35:32,614 - com.uspeclipse.pageobjects.home.Home_pageobjects -INFO - Clicking on Cancel Button on View Person Overlay
+2015-06-20 16:35:32,841 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Adding a New Person to the System
+2015-06-20 16:35:32,915 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Add Person Button
+2015-06-20 16:35:35,395 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on client Chekbox on Add Person Overlay
+2015-06-20 16:35:35,535 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Proceed Button on Add Person Overlay
+2015-06-20 16:35:35,981 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Selecting Mr from Title Dropdown on Add Person Form
+2015-06-20 16:35:36,334 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing John in Forename Textbox on Add Person Form
+2015-06-20 16:35:36,634 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing Paul in Middlename Textbox on Add Person Form
+2015-06-20 16:35:37,062 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing Watson in Surname Textbox on Add Person Form
+2015-06-20 16:35:37,349 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing 1975 in the Year Text box on Add Person Form
+2015-06-20 16:35:37,654 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Male Gender on Add Person Form
+2015-06-20 16:35:37,838 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Selecting White - British from Ethnicity Dropdown on Add Person Form
+2015-06-20 16:35:38,064 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Save Button on Add Person Form
+2015-06-20 16:35:38,371 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Estimated DOB icon is Displayed on Person Detail page
+2015-06-20 16:35:42,269 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:35:42,270 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser
+2015-06-20 16:35:43,816 - com.uspeclipse.commonservices.MultipleBrowser -INFO - About to create DRIVER object for browser : firefox
+2015-06-20 16:35:43,817 - com.uspeclipse.commonservices.MultipleBrowser -INFO - Executing scripts WITHOUT using grid
+2015-06-20 16:35:59,009 - com.uspeclipse.setup.Initialization -INFO - Test Case Execution Started on: firefox
+2015-06-20 16:36:07,912 - com.uspeclipse.setup.Initialization -INFO - About to login into Inview application
+2015-06-20 16:36:07,913 - com.uspeclipse.pageobjects.login.InviewLogin_pageobject -INFO - Logging into application with role : Inview
+2015-06-20 16:36:32,131 - com.uspeclipse.setup.Initialization -INFO - About to login into Eclipse application
+2015-06-20 16:36:32,133 - com.uspeclipse.pageobjects.login.EclipseLogin_pageobject -INFO - Logging into application with user role : worker
+2015-06-20 16:36:46,208 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Starting inner class execution
+2015-06-20 16:36:46,502 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 2 - Navigate to Person screen
+2015-06-20 16:36:46,503 - com.uspeclipse.pageobjects.home.Home_pageobjects -INFO - Clicking on Recently Accessed Record Link on Home Page
+2015-06-20 16:36:51,875 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 3 - Confirm that an '+ADD'and 'WARNINGS' buttons are available at the  top right corner to the user when the person is in the context
+2015-06-20 16:36:51,877 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Add Person button is Displayed on Home page
+2015-06-20 16:36:52,617 - com.uspeclipse.pageobjects.person.AddWarning_pageobject -INFO - Checking if Add Warning Button is Displayed
+2015-06-20 16:36:53,319 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Add Person Button
+2015-06-20 16:36:56,699 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 4 - Confirm that on clicking the'+ADD'button as in above step, a 'Add Person' overlay is opened to the user
+2015-06-20 16:36:56,701 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Add Person Overlay is Displayed
+2015-06-20 16:36:56,894 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 5 - Confirm that the narrative on the overlay is 'What type do you want to add?'
+2015-06-20 16:36:56,896 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Getting Narrative text on the Add Person Overlay
+2015-06-20 16:36:57,124 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 6 - Confirm that three checkboxes are displayed: Client, Other, Professional
+2015-06-20 16:36:57,126 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if client Checkbox is Displayed on Add Person Overlay
+2015-06-20 16:36:57,285 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if other Checkbox is Displayed on Add Person Overlay
+2015-06-20 16:36:57,475 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if professional Checkbox is Displayed on Add Person Overlay
+2015-06-20 16:36:57,663 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 7 - Confirm that the none of the checkboxes are pre-selected
+2015-06-20 16:36:57,665 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if client Checkbox is Selected on Add Person Overlay
+2015-06-20 16:36:57,845 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if other Checkbox is Selected on Add Person Overlay
+2015-06-20 16:36:58,040 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if professional Checkbox is Selected on Add Person Overlay
+2015-06-20 16:36:58,244 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 8 - Confirm that 'proceed' and 'cancel' buttons are displayed below the checkboxes on the right-hand side of the overlay
+2015-06-20 16:36:58,246 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Proceed Button is Displayed on Add Person Overlay
+2015-06-20 16:36:58,427 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Cancel Button is Displayed on Add Person Overlay
+2015-06-20 16:36:58,612 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 9 - Select the checkbox for Client, carer or family/household member
+2015-06-20 16:36:58,614 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on client Chekbox on Add Person Overlay
+2015-06-20 16:36:58,914 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 10 - Click on 'proceed' button 
+2015-06-20 16:36:58,916 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Proceed Button on Add Person Overlay
+2015-06-20 16:37:00,039 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO -  Step 11 - Confirm that the narrative has now changed to 'You're adding a new person'
+2015-06-20 16:37:00,041 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Getting Narrative Text on Add Person Form
+2015-06-20 16:37:00,238 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 22 - Confirm that the'Title' shows a drop-down menu and should not be empty. 'Please choose' should be displayed if no selection is made from the drop-down.
+2015-06-20 16:37:00,239 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Getting Default value from Title Dropdown on Add Person Form
+2015-06-20 16:37:00,438 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Verifying if Title Dropdown is not Empty
+2015-06-20 16:37:01,181 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 29 - Confirm that alternatively the user can also manually enter the year in the year field in 'YYYY' format
+2015-06-20 16:37:01,182 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing 1975 in the Year Text box on Add Person Form
+2015-06-20 16:37:01,549 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 33 - Confirm that when the year is entered in the 'Year' field, the 'Month' field is enabled and the 'Day' field is disabled.
+2015-06-20 16:37:01,551 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if DOBMonth Dropdown is enabled on Add Person Form
+2015-06-20 16:37:01,765 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if DOBDay Dropdown is enabled on Add Person Form
+2015-06-20 16:37:01,939 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 31 - Confirm that on-clicking the down arrow in the month field of calender, months from January, February, March, April, May. June. July, August, September, October, November,December are displayed in the default order
+2015-06-20 16:37:01,941 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Verifying the Options in the Month Dropdown on Add Person Form
+2015-06-20 16:37:03,438 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 43 - Confirm that the'Ethnicity'should not be empty instead 'Please choose' should reflect in the field.
+2015-06-20 16:37:03,439 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Getting Default value from Ethnicity Dropdown on Add Person Form
+2015-06-20 16:37:04,036 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 45 - Confirm that Gender show following options in the form of radio buttons[**b**][**b**] 1. Male[**b**] 2. Female[**b**] 3. Indeterminate[**b**] 4. Unknown[**b**]
+2015-06-20 16:37:04,038 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Male Gender is Displayed on Add Person Form
+2015-06-20 16:37:04,266 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Female Gender is Displayed on Add Person Form
+2015-06-20 16:37:04,462 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Indeterminate Gender is Displayed on Add Person Form
+2015-06-20 16:37:04,678 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Unknown Gender is Displayed on Add Person Form
+2015-06-20 16:37:04,890 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 54 - Confirm that on clicking the 'X' the user is taken out of the'Add person'overlay and the person is not added, the existing page is presented to the user
+2015-06-20 16:37:04,892 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Cancel button on Add Person Form
+2015-06-20 16:37:06,404 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Add Person button is Displayed on Home page
+2015-06-20 16:37:07,004 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Add Person Button
+2015-06-20 16:37:10,185 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on client Chekbox on Add Person Overlay
+2015-06-20 16:37:10,471 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Proceed Button on Add Person Overlay
+2015-06-20 16:37:11,478 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 53 - Confirm that on clicking the 'cancel'button the user is taken out of the'Add person'overlay and the person is not added, the existing page is presented to the user
+2015-06-20 16:37:11,481 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Cancel button on Add Person Form
+2015-06-20 16:37:12,892 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Add Person button is Displayed on Home page
+2015-06-20 16:37:13,519 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 14 - Fill in the mandatory fields and any non mandatory fields and click on 'save' button
+2015-06-20 16:37:13,521 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Adding a New Person to the System
+2015-06-20 16:37:13,919 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Add Person Button
+2015-06-20 16:37:17,106 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on client Chekbox on Add Person Overlay
+2015-06-20 16:37:17,415 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Proceed Button on Add Person Overlay
+2015-06-20 16:37:18,441 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Selecting Mr from Title Dropdown on Add Person Form
+2015-06-20 16:37:19,747 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing John in Forename Textbox on Add Person Form
+2015-06-20 16:37:20,223 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing Paul in Middlename Textbox on Add Person Form
+2015-06-20 16:37:20,566 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing Watson in Surname Textbox on Add Person Form
+2015-06-20 16:37:20,910 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing 1975 in the Year Text box on Add Person Form
+2015-06-20 16:37:21,324 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Selecting Jan from Month Dropdown on Add Person Form
+2015-06-20 16:37:22,637 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Selecting 1 from Day Dropdown on Add Person Form
+2015-06-20 16:37:23,944 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Male Gender on Add Person Form
+2015-06-20 16:37:24,287 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Selecting White - British from Ethnicity Dropdown on Add Person Form
+2015-06-20 16:37:25,064 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Save Button on Add Person Form
+2015-06-20 16:37:25,889 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 15 - Confirm that a message is displayed as 'Person successfully saved'
+2015-06-20 16:37:25,890 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Verifying Confirmation message
+2015-06-20 16:37:31,311 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 16 - Confirm that the details entered in Step 14 are correctly displayed in the 'Identification' accordion 
+2015-06-20 16:37:31,313 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Verifying Person Details of recently added person
+2015-06-20 16:37:32,045 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 17 - Confirm that the Person type on the Identification accordion displays type as 'Client, carer or family/household member'
+2015-06-20 16:37:32,047 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Verifying Person Type of Recently added person
+2015-06-20 16:38:02,951 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 18 - Confirm that 'Add' link is displayed to add new person types to a this person 
+2015-06-20 16:38:02,953 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Add Person Role link is Displayed on Person Detail page
+2015-06-20 16:38:03,166 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 50 - Confirm that the added person is available in the person's result set
+2015-06-20 16:38:03,168 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Getting Person ID from the Person Detail page
+2015-06-20 16:38:03,716 - com.uspeclipse.pageobjects.home.Home_pageobjects -INFO - Clicking on Home Link from Menu
+2015-06-20 16:38:08,880 - com.uspeclipse.pageobjects.home.Home_pageobjects -INFO - Searching a Person
+2015-06-20 16:38:11,201 - com.uspeclipse.pageobjects.home.Home_pageobjects -INFO - Getting recently added PersonName from Search Result
+2015-06-20 16:38:11,851 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 52 - Confirm that on clicking to the 'view person' link, the view person dialog is presented to the user
+2015-06-20 16:38:11,853 - com.uspeclipse.pageobjects.home.Home_pageobjects -INFO - Clicking on Person Name Link
+2015-06-20 16:38:12,712 - com.uspeclipse.pageobjects.home.Home_pageobjects -INFO - Checking if View Person Overlay is Displayed
+2015-06-20 16:38:13,492 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - Step 37 - Confirm that if the user does not enter the exact date in the 'Day' field, last date of the month entered is considered and displayed by default and Dob is marked as 'estimated' Dob
+2015-06-20 16:38:13,494 - com.uspeclipse.pageobjects.home.Home_pageobjects -INFO - Clicking on Cancel Button on View Person Overlay
+2015-06-20 16:38:14,272 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Adding a New Person to the System
+2015-06-20 16:38:14,734 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Add Person Button
+2015-06-20 16:38:17,929 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on client Chekbox on Add Person Overlay
+2015-06-20 16:38:18,273 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Proceed Button on Add Person Overlay
+2015-06-20 16:38:19,460 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Selecting Mr from Title Dropdown on Add Person Form
+2015-06-20 16:38:21,166 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing John in Forename Textbox on Add Person Form
+2015-06-20 16:38:21,646 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing Paul in Middlename Textbox on Add Person Form
+2015-06-20 16:38:22,116 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing Watson in Surname Textbox on Add Person Form
+2015-06-20 16:38:22,600 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Providing 1975 in the Year Text box on Add Person Form
+2015-06-20 16:38:23,199 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Male Gender on Add Person Form
+2015-06-20 16:38:23,603 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Selecting White - British from Ethnicity Dropdown on Add Person Form
+2015-06-20 16:38:24,518 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Clicking on Save Button on Add Person Form
+2015-06-20 16:38:25,825 - com.uspeclipse.pageobjects.person.AddPerson_pageobject -INFO - Checking if Estimated DOB icon is Displayed on Person Detail page
+2015-06-20 16:38:31,193 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - End of test
+2015-06-20 16:38:31,195 - com.uspeclipse.testscripts.person.AddNewPerson_TestCaseID2583 -INFO - closing and exiting browser

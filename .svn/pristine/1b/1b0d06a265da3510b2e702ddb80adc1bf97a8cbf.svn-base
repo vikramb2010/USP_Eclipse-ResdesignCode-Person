@@ -1,0 +1,59 @@
+
+selenium.screengrab.path=C\:\\screenshots
+
+selenium.local.firefox.usepath=false
+selenium.local.firefox.binarypath="C\:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe"
+
+default.testsuite=com.uspeclipse.runner.JunitTestSuite
+
+default.browser=chrome
+#Browsers = firefox,chrome,ie10,ios,ios-ipad,android-browserstack
+Browsers = ie11,ie10,chrome,firefox
+
+default.aut.url=https://inview.olmdemo.co.uk/
+#http://www.google.com
+#https://inview.olmdemo.co.uk/
+default.aut.url1 = https://ecl-auto.olmdemo.co.uk/eclipse/login
+
+#INT postgres: https://slgdimash02.group.olm.int:8443
+#INT ORACLE : https://slgdimash02.group.olm.int:8444
+
+# developers database
+#default.aut.url=http://slgdiix04.group.olm.int:8080/mash/spring/login
+#http://172.31.133.95:8282/mash/spring/login
+
+default.grid.url= http://sumotech:aa2699c7-1f21-4956-9ddb-257a780ae2bd@ondemand.saucelabs.com:80/wd/hub
+#usp grid: http://usp-automation-hub:4444//wd/hub
+default.hub.url=http://192.168.10.100:4444/wd/hub
+
+selenium.remote.server=grid
+
+default.report.name = USP_Eclipse_Report
+
+#default.testdata.path = src/test/java/TestData
+default.testdata.path = src/test/resources/testdata/
+# Connection values for dbUnit75
+jdbc.driver= org.postgresql.Driver
+#postgres driver path = org.postgresql.Driver
+#oracle driver path= oracle.jdbc.OracleDriver
+
+# Test database
+#jdbc.url=jdbc:oracle:thin:@SLGDIOR01.group.olm.int:1521:LINT11G
+#jdbc.username=MASH	
+#jdbc.password=MASH
+#jdbc.schema=MASH
+
+# Developers database
+jdbc.url=jdbc:postgresql://slgdimav01:5432/mash_ftest
+jdbc.username=postgres
+jdbc.password=Twixthecat01
+jdbc.schema=default
+
+# dbUnit exported data file used to refresh the database before each test suite
+dbunit.data.all=FullExport.xml
+
+#Command for providing Browsers, Using Grid and URL from command line
+#mvn test -DBrowser=firefox,chrome -DUseGrid=false -D="https://inview.olmdemo.co.uk/"
+
+#Command for providing Browsers, Using Grid and URL from command line - For Generating sure-fire HTML reports
+#site -DBrowser=firefox,chrome -DUseGrid=false -D="https://inview.olmdemo.co.uk/"
